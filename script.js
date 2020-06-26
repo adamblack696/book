@@ -21,6 +21,7 @@ adv.style.display = 'none';
 listVisible[2].before(listVisible[3]);
 listVisible[4].before(listVisible[6]);
 listVisible[4].before(listVisible[8]);
+listVisible[9].after(listVisible[2]);
 
 listAsinc[2].before(listAsinc[9]);
 listAsinc[5].before(listAsinc[2]);
